@@ -7,6 +7,8 @@ public class test {
 System.out.println("sample message");
 
 System.out.println("updated line for git example");
+System.out.println("updated from repo  for pull request command");		
+
 	}
 
 }
